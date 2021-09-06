@@ -1,0 +1,9 @@
+GROCERY STORE
+
+ITEM                       QUANTITY              RATE                 TOTAL PRICE
+cold coffee                   3                   25                           75
+Ice cream                     1                   35                           35
+tea                           2                   5                            10
+sandwitch                     2                   15                           30
+
+Total =150.00
